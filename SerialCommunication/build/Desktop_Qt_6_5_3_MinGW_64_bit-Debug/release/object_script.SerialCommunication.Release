@@ -1,0 +1,13 @@
+release/fsecs.o
+release/main.o
+release/modbustcpwidget.o
+release/serialwidget.o
+release/tcpwidget.o
+release/udpwidget.o
+release/widget.o
+release/moc_fsecs.o
+release/moc_modbustcpwidget.o
+release/moc_serialwidget.o
+release/moc_tcpwidget.o
+release/moc_udpwidget.o
+release/moc_widget.o

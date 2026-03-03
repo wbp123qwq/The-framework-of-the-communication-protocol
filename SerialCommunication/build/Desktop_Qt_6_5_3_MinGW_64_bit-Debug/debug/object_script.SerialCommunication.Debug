@@ -1,0 +1,13 @@
+debug/fsecs.o
+debug/main.o
+debug/modbustcpwidget.o
+debug/serialwidget.o
+debug/tcpwidget.o
+debug/udpwidget.o
+debug/widget.o
+debug/moc_fsecs.o
+debug/moc_modbustcpwidget.o
+debug/moc_serialwidget.o
+debug/moc_tcpwidget.o
+debug/moc_udpwidget.o
+debug/moc_widget.o
